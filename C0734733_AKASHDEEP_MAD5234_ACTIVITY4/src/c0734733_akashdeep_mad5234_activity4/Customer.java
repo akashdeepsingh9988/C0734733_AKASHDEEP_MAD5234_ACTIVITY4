@@ -1,4 +1,4 @@
-
+package c0734733_akashdeep_mad5234_activity4;
 public class Customer {
 	/**
 	 * Creates a new customer with an initial starting balance
